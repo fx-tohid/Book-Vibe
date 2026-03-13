@@ -7,7 +7,7 @@ import HeroSection from "./Components/HeroSection/HeroSection"
 
 function Home() {
 
-  const fetchDatas = fetch('datas.json').then(res => res.json())
+  const fetchDatas = fetch('/datas.json').then(res => res.json())
 
   return (
     <>
