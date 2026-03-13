@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg",
+    "review": "A practical guide that explains how small daily habits compound into remarkable long-term results. The book provides clear systems for breaking bad habits and building good ones using behavioral psychology.",
+    "totalPages": 320,
+    "rating": 4.8,
+    "category": "Self Development",
+    "tags": ["Productivity", "Psychology", "Habits"],
+    "publisher": "Avery",
+    "yearOfPublishing": 2018
+  },
+  {
+    "id": 2,
+    "bookName": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "review": "A philosophical story about a young shepherd named Santiago who travels in search of treasure but ultimately discovers the importance of following one's dreams and listening to the heart.",
+    "totalPages": 208,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": ["Adventure", "Philosophy", "Spiritual"],
+    "publisher": "HarperOne",
+    "yearOfPublishing": 1988
+  },
+  {
+    "id": 3,
+    "bookName": "Deep Work",
+    "author": "Cal Newport",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81JJ7fyyKyS.jpg",
+    "review": "This book argues that the ability to focus without distraction is becoming rare and extremely valuable. It provides strategies to train the brain for deep concentration and meaningful productivity.",
+    "totalPages": 304,
+    "rating": 4.7,
+    "category": "Productivity",
+    "tags": ["Focus", "Work", "Career"],
+    "publisher": "Grand Central Publishing",
+    "yearOfPublishing": 2016
+  },
+  {
+    "id": 4,
+    "bookName": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg",
+    "review": "A collection of short stories explaining how people's emotions and behaviors influence financial decisions more than technical knowledge about money.",
+    "totalPages": 256,
+    "rating": 4.7,
+    "category": "Finance",
+    "tags": ["Money", "Behavior", "Investment"],
+    "publisher": "Harriman House",
+    "yearOfPublishing": 2020
+  },
+  {
+    "id": 5,
+    "bookName": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg",
+    "review": "A personal finance classic that contrasts two different mindsets about money and wealth, encouraging readers to build assets, understand financial education, and think like investors.",
+    "totalPages": 336,
+    "rating": 4.5,
+    "category": "Finance",
+    "tags": ["Wealth", "Business", "Mindset"],
+    "publisher": "Plata Publishing",
+    "yearOfPublishing": 1997
+  },
+  {
+    "id": 6,
+    "bookName": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/713jIoMO3UL.jpg",
+    "review": "An engaging exploration of human history, explaining how Homo sapiens evolved and shaped civilizations through culture, science, religion, and economics.",
+    "totalPages": 498,
+    "rating": 4.7,
+    "category": "History",
+    "tags": ["History", "Anthropology", "Civilization"],
+    "publisher": "Harper",
+    "yearOfPublishing": 2011
+  }
+]

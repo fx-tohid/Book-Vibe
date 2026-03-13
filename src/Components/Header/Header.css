@@ -1,0 +1,7 @@
+.active{
+    color: #48bb78;
+    border:1px solid #48bb78;
+    /* px-5 py-2 */
+    padding: 8px 20px;
+    border-radius: 8px;
+}
